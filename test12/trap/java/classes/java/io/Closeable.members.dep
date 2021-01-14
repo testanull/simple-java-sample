@@ -1,0 +1,9 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\java\io\Closeable.members.trap.gz
+
+TRAPS
+classes/java/io/Closeable.members.trap.gz
+classes/java/lang/AutoCloseable.members.trap.gz
+classes/java/io/IOException.members.trap.gz

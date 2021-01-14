@@ -1,0 +1,12 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\sun\reflect\MethodAccessor.members.trap.gz
+
+TRAPS
+classes/sun/reflect/MethodAccessor.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/java/lang/Cloneable.members.trap.gz
+classes/java/io/Serializable.members.trap.gz
+classes/java/lang/IllegalArgumentException.members.trap.gz
+classes/java/lang/reflect/InvocationTargetException.members.trap.gz

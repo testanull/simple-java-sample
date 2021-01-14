@@ -1,0 +1,9 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\java\io\ObjectStreamClass$ClassDataSlot.members.trap.gz
+
+TRAPS
+classes/java/io/ObjectStreamClass$ClassDataSlot.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/java/io/ObjectStreamClass.members.trap.gz

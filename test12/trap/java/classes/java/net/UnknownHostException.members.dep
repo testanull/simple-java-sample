@@ -1,0 +1,9 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\java\net\UnknownHostException.members.trap.gz
+
+TRAPS
+classes/java/net/UnknownHostException.members.trap.gz
+classes/java/io/IOException.members.trap.gz
+classes/java/lang/String.members.trap.gz

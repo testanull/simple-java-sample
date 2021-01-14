@@ -1,0 +1,9 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\java\security\ProtectionDomain$Key.members.trap.gz
+
+TRAPS
+classes/java/security/ProtectionDomain$Key.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/java/security/ProtectionDomain.members.trap.gz

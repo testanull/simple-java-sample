@@ -1,0 +1,16 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\sun\misc\URLClassPath$Loader.members.trap.gz
+
+TRAPS
+classes/sun/misc/URLClassPath$Loader.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/java/io/Closeable.members.trap.gz
+classes/sun/misc/URLClassPath.members.trap.gz
+classes/java/net/URL.members.trap.gz
+classes/java/lang/Cloneable.members.trap.gz
+classes/java/io/Serializable.members.trap.gz
+classes/java/io/IOException.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/sun/misc/Resource.members.trap.gz

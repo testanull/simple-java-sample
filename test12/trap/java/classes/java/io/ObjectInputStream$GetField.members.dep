@@ -1,0 +1,12 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\java\io\ObjectInputStream$GetField.members.trap.gz
+
+TRAPS
+classes/java/io/ObjectInputStream$GetField.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/java/io/ObjectInputStream.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/java/io/IOException.members.trap.gz
+classes/java/io/ObjectStreamClass.members.trap.gz

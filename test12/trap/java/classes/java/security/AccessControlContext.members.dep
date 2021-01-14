@@ -1,0 +1,15 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\java\security\AccessControlContext.members.trap.gz
+
+TRAPS
+classes/java/security/AccessControlContext.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/java/security/Permission.members.trap.gz
+classes/java/security/AccessControlException.members.trap.gz
+classes/java/security/DomainCombiner.members.trap.gz
+classes/java/security/ProtectionDomain.members.trap.gz
+classes/java/lang/Cloneable.members.trap.gz
+classes/java/io/Serializable.members.trap.gz
+classes/sun/security/util/Debug.members.trap.gz

@@ -1,0 +1,3 @@
+[2021-01-14 10:10:32] [javac-extractor-8164] Starting extraction for:
+                                             sun.java.command=com.semmle.extractor.java.JavaExtractor --javac-args @@@D:\Research2021\FernQL\simple-java-sample\ext\javac.args
+                                             user.dir=D:\Coding\simple-java-test

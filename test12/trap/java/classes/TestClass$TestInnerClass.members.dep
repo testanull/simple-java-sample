@@ -1,0 +1,10 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\TestClass$TestInnerClass.members.trap.gz
+
+TRAPS
+classes/TestClass$TestInnerClass.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/TestClass.members.trap.gz
+classes/java/lang/String.members.trap.gz
