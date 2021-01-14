@@ -1,5 +1,0 @@
-[2021-01-13 16:34:38] [javac-extractor-15784] Starting extraction for:
-                                              sun.java.command=com.semmle.extractor.java.JavaExtractor --javac-args @@@D:\Research2021\FernQL\simple-java-sample\ext\javac.args
-                                              user.dir=D:\Coding\simple-java-test
-[2021-01-13 16:49:18] [javac-extractor-15784] Processing file src\TestClass.java
-[2021-01-13 17:00:48] [javac-extractor-15784] Writing trap file for: java.util.HashMap 52.0-1576034804000 jar:file:///C:/Program%20Files/Java/jdk1.8.0_241/jre/lib/rt.jar!/java/util/HashMap.class

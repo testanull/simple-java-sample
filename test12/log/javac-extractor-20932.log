@@ -1,8 +1,0 @@
-[2021-01-14 13:53:08] [javac-extractor-20932] Starting extraction for:
-                                              sun.java.command=com.semmle.extractor.java.JavaExtractor --javac-args @@@D:\Research2021\FernQL\simple-java-sample\ext\javac.args
-                                              user.dir=D:\Coding\simple-java-test
-[2021-01-14 13:53:08] [javac-extractor-20932] Javac init time: 0.5s
-[2021-01-14 13:53:08] [javac-extractor-20932] Javac attr time: 0.0s
-[2021-01-14 13:53:08] [javac-extractor-20932] Extractor time: 0.0s
-[2021-01-14 13:53:08] [javac-extractor-20932] Other time: 0.1s
-[2021-01-14 13:53:08] [javac-extractor-20932] Total time: 0.6s
