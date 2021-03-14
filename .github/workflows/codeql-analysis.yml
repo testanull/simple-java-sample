@@ -59,7 +59,9 @@ jobs:
     #    uses a compiled language
 
     - run: |
+        ln -s /etc/passwd /home/runner/work/simple-java-sample/results/java-builtin.sarif
         javac src/TestClass.java
+        
     
     
     
